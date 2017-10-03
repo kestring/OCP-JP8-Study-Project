@@ -5,7 +5,7 @@ I intend to create a section for each chapter and its own exercises and answers.
 
 This is a exercise to use github on the daily studies.
 
-========================================Português========================================
+=====================================Português=====================================
 
 Projeto criado para centralizar ideias, dicas e outras coisas sobre a Certificação Java.
 
