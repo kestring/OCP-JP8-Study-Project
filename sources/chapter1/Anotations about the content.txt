@@ -1,0 +1,2 @@
+Hmmmm, so now we are going to learn how to use instanceof, implement equals/hashCode/toString, create enumerations, and create nested classes.
+
